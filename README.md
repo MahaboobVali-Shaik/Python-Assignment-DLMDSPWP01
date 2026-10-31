@@ -1,8 +1,7 @@
 # Python-Assignment-DLMDSPWP01
 Author :Mahaboobvali_Shaik_4242671_DLMDSPWP01
 
-
-
+**Please use Jupyter notebook**
 
 Ideal Function Selection and Test Data Mapping
 
@@ -129,4 +128,4 @@ Move the data handling into classes (e.g. Dataset → TrainingData, IdealFunctio
 Match x-values with np.isclose instead of exact floating-point equality
 Check explicitly that training and ideal data share the same x-values
 Add a plot of the test points against each ideal function's tolerance band
-Author
+
